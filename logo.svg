@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <path d="M20 180 
+           C40 100, 60 120, 80 80 
+           C100 40, 120 60, 140 20 
+           C160 60, 180 40, 180 80 
+           C180 120, 160 100, 140 180 
+           C120 100, 100 120, 80 160 
+           C60 120, 40 100, 20 180Z" 
+        fill="#e63946" stroke="#c1121f" stroke-width="2">
+    <animateTransform attributeName="transform" 
+                      type="translate" 
+                      values="0 0; 0 -2; 0 0" 
+                      dur="3s" 
+                      repeatCount="indefinite"/>
+  </path>
+</svg>
